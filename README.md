@@ -37,7 +37,7 @@ The Config Server solves these challenges by:
 
 ## Tech Stack
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot**
 - **Spring Cloud Config Server**
 - **Git (Configuration Repository)**
